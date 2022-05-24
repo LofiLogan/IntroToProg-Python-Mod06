@@ -1,6 +1,6 @@
 Module 06 Website
 ---
-[Google Homepage] (https://www.google.com "Google's Homepage")
+[Google Homepage] (https://www.google.com)
 
 [GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ![image](https://user-images.githubusercontent.com/104462632/170127803-9863fb26-7cf0-4e97-97f1-0fd8ebf0f4e8.png)
