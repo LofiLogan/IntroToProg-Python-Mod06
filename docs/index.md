@@ -1,6 +1,6 @@
-[Google Homepage](https://www.google.com "Google's Homepage")
+# Module06 Website
 
-[Typical Assignment Document](https://github.com/rootrUW/ITFnd100-Mod06/blob/master/_A_Typical_Assignment_Document.pdf)
+[Google Homepage](https://www.google.com "Google's Homepage")
 
 [GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
